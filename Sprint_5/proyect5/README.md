@@ -1,4 +1,8 @@
-# Sprint5_project
+# Proyecto del sprint 5: Herramientas de desarrollo de software
+"Crear un dashboard e implementarlo en un servicio en la nube que lo hara accesible al público."
+
+
+## Sprint5_project
 Despliegue web de una aplicación de análisis estadístico simple.
 
 Esta aplicación web demuestra un analisis estadistico simple sobre un set de datos de venta de coches sobre la plataforma render conectada con github.
