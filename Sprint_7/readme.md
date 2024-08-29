@@ -1,3 +1,12 @@
+# Proyecto del Sprint 7: Recopilación y almacenamiento de datos (SQL)
+"Analizar datos de competidores y probar una hipotesis sobre el impacto de factores externos para una compania para compartir vehículos."
+
+Este proyecto combina multiples pasos y tecnologías:
+- primero se hace web scrapping a una pagina dummy en busca de la información a trabajar
+- Se hacen consultas en SQL para filtrar los datos deseados
+- Se realiza un analís exploratorio y estadistico en python.
+
+
 # Descripción del proyecto
 Estás trabajando como analista para Zuber, una nueva empresa de viajes compartidos que se está lanzando en Chicago. Tu tarea es encontrar patrones en la información disponible. Quieres comprender las preferencias de los pasajeros y el impacto de los factores externos en los viajes.
 
