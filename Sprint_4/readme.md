@@ -1,3 +1,9 @@
+# Proyecto del Sprint 4: Análisis estadístico de datos
+
+"Comparar los dos planes de prepago de un operador de telecomunicaciones para determinar cual de los dos planes generaria más beneficios."
+
+El objetivo de este proyecto es usar estadistica para diferenciar poblaciones a trabes de pruebas T, asi como generar conclusiones basadas en datos.
+
 # Descripción del proyecto
 Trabajas como analista para el operador de telecomunicaciones Megaline. La empresa ofrece a sus clientes dos tarifas de prepago, Surf y Ultimate. El departamento comercial quiere saber cuál de los planes genera más ingresos para poder ajustar el presupuesto de publicidad.
 
