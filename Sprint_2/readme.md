@@ -1,3 +1,7 @@
+# Proyecto del sprint 2: Python básico (continuación)
+"Probar una hipótesis de producto analizando datos de usuario para incrementar la fidelizacion de clientes en un servicio de streaming musical."
+En este proyecto se pone a prueba el manejo de dataframes, la limpieza de datos y la capacidad de relacionar dafaframes distintos.
+
 # Descripción del proyecto
 En el contexto de este proyecto, probarás una hipótesis relacionada con las preferencias musicales de dos ciudades. Esto se hará mediante el análisis de datos reales de transmisión de música online para probar la hipótesis a continuación y comparar el comportamiento de los usuarios y las usuarias de estas dos ciudades.
 
