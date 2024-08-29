@@ -1,4 +1,12 @@
-# Proyecto del Sprint 3
+
+# Proyecto del Sprint 3: Manipulación de datos (Data Wrangling)
+"Preparar un informe con visualizaciones que brinde informacion sobre los habitos de compra de los clientes de una plataforma de entrega de comestibles."
+
+En este proyecto se ponen a prueba las capacidades de modificar dataframes para obtener datos de mayor relevancia para el analisis.
+
+
+
+
 
 Preparar un informe con visualizaciones que brinde información sobre los hábitos de compra de los clientes de una plataforma de entrega de comestibles.
 
