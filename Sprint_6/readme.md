@@ -1,3 +1,9 @@
+# Proyecto del Sprint 6: proyecto integrador
+
+"Para una tienda online de videojuegos, identificar los patrones que determinan si un juego tiene éxito o no."
+
+En este proyecto se ponen en uso la mayor parte de las habilidades desarrolladas hasta ahora, un analisis exploratorio de datos minusioso y exhaustivo, que describe las tendencias pasadas y da algunas perspectivas al futuro (2017), usando graficos, analsisi y pruebas estadisticas.
+
 # Descripción del proyecto
 Trabajas para la tienda online Ice que vende videojuegos por todo el mundo. Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. Tienes que identificar patrones que determinen si un juego tiene éxito o no. Esto te permitirá detectar proyectos prometedores y planificar campañas publicitarias.
 
