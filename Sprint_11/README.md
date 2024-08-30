@@ -34,7 +34,7 @@ Es necesario desarrollar un algoritmo de transformación de datos que dificulte 
 
 
 ### Descripción de datos
-El dataset se almacena en el archivo /datasets/insurance_us.csv.
+El dataset se almacena en el archivo `/datasets/insurance_us.csv.`
 
 - **-Características**: sexo, edad, salario y número de familiares de la persona asegurada.
 - **-Objetivo**: número de beneficios de seguro recibidos por una persona asegurada en los últimos cinco años.
