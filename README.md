@@ -1,8 +1,10 @@
 # Proyectos formativos del Bootcamp TripleTen
 
-Repositorio de los proyectos finales y algunos ejercicios de cada Sprint del bootcamp, se abarca desde temas basicos como uso de python. manejo escencial de datos y dataframes, pasando por como hacer un Analisis exploratorio de datos, formulación de hipotesis, estadistica, SQL, apicaciones web, hasta machine learning; modelos clasificatorios, modelos para regresión y algebra lineal.
+Repositorio de los proyectos finales y algunos ejercicios de cada Sprint del bootcamp, se abarca desde temas basicos como uso de python, manejo escencial de datos y dataframes, pasando por como hacer un Analisis Exploratorio de Datos, formulación de hipotesis, estadistica, SQL, apicaciones web, hasta machine learning; modelos clasificatorios, modelos para regresión y algebra lineal.
 
 Este repositorio sera actualizado conforme se hagan mas proyectos.
+
+Para ejecutar cualquier proyecto descarga su notebook y datos (csv's) en una carpeta llamada "datasets" en la misma dirección del notebook.
 
 | Proyecto   | Descripción general | Temas Clave | Tecnologías |
 |------------|---------------------|-------------|-------------|
