@@ -4,7 +4,7 @@ Repositorio de los proyectos finales y algunos ejercicios de cada Sprint del boo
 
 Este repositorio sera actualizado conforme se hagan mas proyectos.
 
-Para ejecutar cualquier proyecto descarga su notebook y datos (csv's) en una carpeta llamada "datasets" en la misma dirección del notebook.
+Para ejecutar cualquier proyecto descarga su notebook (.ipynb)y datos (.csv) en una carpeta llamada "datasets" en la misma dirección del notebook.
 
 | Proyecto   | Descripción general | Temas Clave | Tecnologías |
 |------------|---------------------|-------------|-------------|
