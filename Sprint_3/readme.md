@@ -5,10 +5,14 @@
 En este proyecto se ponen a prueba las capacidades de modificar dataframes para obtener datos de mayor relevancia para el analisis.
 
 
+<div align='center'>
+<img width="68" alt="Procesamiento de datos" src="https://github.com/user-attachments/assets/19d775b5-28c2-434c-995b-c6301fcbb41e">
+<img width="68" alt="Analisis exploratorio" src="https://github.com/user-attachments/assets/15ad5609-30a0-46c7-a781-25da59b69e3b">
+<img width="68" alt="Explicación de los datos" src="https://github.com/user-attachments/assets/7bf5d686-17a6-4628-90e8-392fc2b5dc09">
+<img width="68" alt="Analisis estadistico" src="https://github.com/user-attachments/assets/18cf4543-096e-4b79-af7b-0b23b6815053"></div>
 
 
 
-Preparar un informe con visualizaciones que brinde información sobre los hábitos de compra de los clientes de una plataforma de entrega de comestibles.
 
 ## Diccionario de Datos
 
