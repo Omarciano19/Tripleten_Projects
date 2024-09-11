@@ -18,12 +18,13 @@ Este repositorio sera actualizado conforme se hagan mas proyectos cubriendo los 
 
 </div>
 
+<div align='center'>
 <img width="70" alt="Fundamentos de ML" src="https://github.com/user-attachments/assets/7dfe3454-169d-4b10-b8ae-3c141ddf88ee">
 
 <img width="70" alt="Modelos de regresión" src="https://github.com/user-attachments/assets/7e8bf508-9b12-4fc4-b066-2cd3affd360e">
 <img width="70" alt="Modelos de clasificación" src="https://github.com/user-attachments/assets/13aaeb69-6e13-4db2-aa03-7b746f6be171">
 
-<div align='center'>
+
 
 
 <img width="70" alt="ML avanzado" src="https://github.com/user-attachments/assets/2562bc37-0152-4840-8901-be22b7873529">
