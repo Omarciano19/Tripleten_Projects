@@ -4,6 +4,7 @@
 
 En este proyecto se ponen a prueba las capacidades de modificar dataframes para obtener datos de mayor relevancia para el analisis.
 
+## Skills: 
 
 <div align='center'>
 <img width="68" alt="Procesamiento de datos" src="https://github.com/user-attachments/assets/19d775b5-28c2-434c-995b-c6301fcbb41e">
