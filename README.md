@@ -11,7 +11,9 @@ Este repositorio sera actualizado conforme se hagan mas proyectos cubriendo los 
 <img width="75" alt="Analisis estadistico" src="https://github.com/user-attachments/assets/2c4fe6aa-8f45-40c7-9f39-aef514316116">
 <img width="75" alt="Analisis exploratorio" src="https://github.com/user-attachments/assets/15875766-8cfd-46b6-ab5c-9f60c7ff3fdd">
 <img width="75" alt="Explicación de los datos" src="https://github.com/user-attachments/assets/a1a56119-bff3-4ba4-a20f-559b406ba2ef">
-<img width="75" alt="Herramientas de desarrollo de software" src="https://github.com/user-attachments/assets/9915294c-75ca-4bd7-9341-83a756ff81e2">
+<img width="75" alt="Herramientas de desarrollo de software" src="https://github.com/user-attachments/assets/d25f99ff-e9cb-46b4-b59d-86200da49c7f">
+
+
 
 
 <img width="75" alt="SQL" src="https://github.com/user-attachments/assets/daea0a0a-6dbc-49ab-93d6-7bbc91c7bbaf">
