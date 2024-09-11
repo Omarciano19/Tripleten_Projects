@@ -4,6 +4,16 @@
 
 En este proyecto se ponen en uso la mayor parte de las habilidades desarrolladas hasta ahora, un analisis exploratorio de datos minusioso y exhaustivo, que describe las tendencias pasadas y da algunas perspectivas al futuro (2017), usando graficos, analsisi y pruebas estadisticas.
 
+### Skills: 
+
+
+<div align='center'>
+<img width="68" alt="Python" src="https://github.com/user-attachments/assets/240eeed1-c245-4a3b-898c-a72cb68b031a">
+<img width="68" alt="Procesamiento de datos" src="https://github.com/user-attachments/assets/4b6c58b1-0bc3-434c-9b57-3511dcb04749">
+<img width="68" alt="Analisis exploratorio" src="https://github.com/user-attachments/assets/22486eb0-e5a6-4095-9067-c435ffc839ec">
+<img width="68" alt="Analisis estadistico" src="https://github.com/user-attachments/assets/54044c92-a726-408c-84dc-8b71f25475e5">
+</div>
+
 # Descripción del proyecto
 Trabajas para la tienda online Ice que vende videojuegos por todo el mundo. Las reseñas de usuarios y expertos, los géneros, las plataformas (por ejemplo, Xbox o PlayStation) y los datos históricos sobre las ventas de juegos están disponibles en fuentes abiertas. Tienes que identificar patrones que determinen si un juego tiene éxito o no. Esto te permitirá detectar proyectos prometedores y planificar campañas publicitarias.
 
