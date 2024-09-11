@@ -3,6 +3,7 @@
 En este proyecto se pone a prueba el manejo de dataframes, la limpieza de datos y la capacidad de relacionar dafaframes distintos.
 
 
+## Skills: 
 
 <div align='center'>
 <img width="68" alt="Python" src="https://github.com/user-attachments/assets/9490877c-755c-4ec0-a17f-2c190d17d3b1">
