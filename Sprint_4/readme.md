@@ -4,6 +4,7 @@
 
 El objetivo de este proyecto es usar estadistica para diferenciar poblaciones a trabes de pruebas T, asi como generar conclusiones basadas en datos.
 
+## Skills: 
 
 <div align='center'>
 <img width="68" alt="Analisis estadistico" src="https://github.com/user-attachments/assets/44318829-473b-40af-a452-676b7a1619f4">
