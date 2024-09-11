@@ -1,6 +1,8 @@
 # Proyecto del sprint 5: Herramientas de desarrollo de software
 "Crear un dashboard e implementarlo en un servicio en la nube que lo hara accesible al público."
 
+## Skills:
+
 <div align='center'>
 <img width="68" alt="Herramientas de desarrollo de software" src="https://github.com/user-attachments/assets/406c04eb-ba94-467b-8959-5b37f3ad7d6f">
 <img width="68" alt="Python" src="https://github.com/user-attachments/assets/fb6bdf3f-ac55-4e28-92ab-156e004b704b">
