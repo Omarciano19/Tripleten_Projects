@@ -4,6 +4,11 @@
 
 El objetivo de este proyecto es usar estadistica para diferenciar poblaciones a trabes de pruebas T, asi como generar conclusiones basadas en datos.
 
+
+<div align='center'>
+<img width="68" alt="Analisis estadistico" src="https://github.com/user-attachments/assets/44318829-473b-40af-a452-676b7a1619f4">
+<img width="68" alt="Python" src="https://github.com/user-attachments/assets/c3d30159-41b9-4310-b14a-b9d4dab5fb76"></div>
+
 # Descripción del proyecto
 Trabajas como analista para el operador de telecomunicaciones Megaline. La empresa ofrece a sus clientes dos tarifas de prepago, Surf y Ultimate. El departamento comercial quiere saber cuál de los planes genera más ingresos para poder ajustar el presupuesto de publicidad.
 
