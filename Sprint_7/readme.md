@@ -2,9 +2,17 @@
 "Analizar datos de competidores y probar una hipotesis sobre el impacto de factores externos para una compania para compartir vehículos."
 
 Este proyecto combina multiples pasos y tecnologías:
-- primero se hace web scrapping a una pagina dummy en busca de la información a trabajar
-- Se hacen consultas en SQL para filtrar los datos deseados
-- Se realiza un analís exploratorio y estadistico en python.
+- -primero se hace web scrapping a una pagina dummy en busca de la información a trabajar
+- -Se hacen consultas en SQL para filtrar los datos deseados
+- -Se realiza un analís exploratorio y estadistico en python.
+
+## Skills:
+<div align='center'>
+<img width="68" alt="Procesamiento de datos" src="https://github.com/user-attachments/assets/6d00bd6f-2ef2-4dbc-841e-601979243ea3">
+<img width="68" alt="SQL" src="https://github.com/user-attachments/assets/15fb7a20-950a-44e4-a108-1712e9811493">
+
+</div>
+
 
 
 # Descripción del proyecto
