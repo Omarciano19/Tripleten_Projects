@@ -5,6 +5,18 @@ Esto se logró a través de un modelo de arbol de clasificación con un puntaje 
 
 En este proyecto se explora mas a fondo los metodos de clasificación; revisando codificaciones, escalados, metricas de clasificación,  el desbalance de clases y multiples metricas del los modelos.
 
+## Skills:
+
+<div align='center'>
+<img width="68" alt="Python" src="https://github.com/user-attachments/assets/09e688bb-3441-44b6-89d1-1729e078eaf3">
+<img width="68" alt="Procesamiento de datos" src="https://github.com/user-attachments/assets/4f67bdb5-2593-4be6-842c-4b7475b8faf7">
+</div>
+
+<div align='center'>
+<img width="68" alt="SQL" src="https://github.com/user-attachments/assets/c1345495-ffa2-4ff1-af5e-afdda465d1cb">
+<img width="64" alt="Modelos de clasificación" src="https://github.com/user-attachments/assets/b5d65030-1c63-45c8-86fe-91a3046bc694">
+</div>
+
 ## Descripción del proyecto
 Los clientes de Beta Bank se están yendo, cada mes, poco a poco. Los banqueros descubrieron que es más barato salvar a los clientes existentes que atraer nuevos.
 
