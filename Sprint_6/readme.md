@@ -4,7 +4,7 @@
 
 En este proyecto se ponen en uso la mayor parte de las habilidades desarrolladas hasta ahora, un analisis exploratorio de datos minusioso y exhaustivo, que describe las tendencias pasadas y da algunas perspectivas al futuro (2017), usando graficos, analsisi y pruebas estadisticas.
 
-### Skills: 
+## Skills: 
 
 
 <div align='center'>
