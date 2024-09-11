@@ -12,7 +12,12 @@ Este proyecto combina multiples pasos y tecnologías:
 <img width="68" alt="SQL" src="https://github.com/user-attachments/assets/15fb7a20-950a-44e4-a108-1712e9811493">
 
 </div>
+<div align='center'>
+<img width="68" alt="Python" src="https://github.com/user-attachments/assets/87ad62e2-8f91-4ea2-b7bb-0d121678dcc1">
+<img width="68" alt="Analisis estadistico" src="https://github.com/user-attachments/assets/98a0c07f-96a7-49ee-83bf-40a723930679">
 
+
+</div>
 
 
 # Descripción del proyecto
