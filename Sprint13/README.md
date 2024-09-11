@@ -6,8 +6,11 @@ En este proyecto se analiza un dataset compuesto únicamente de la etiqueta temp
 
 ## Skills:
 <div align='center'>
-![image](https://github.com/user-attachments/assets/6a9f5dc7-5f56-4b66-9210-6be23ca3018e)
-![image](https://github.com/user-attachments/assets/f90e3c14-2e72-4b4d-9ffe-78b9ab950074)
+  <img width="64" alt="ML avanzado" src="https://github.com/user-attachments/assets/64c66a60-e738-40b0-b89c-c1840ff9ba80">
+<img width="64" alt="Analisis de series temporales" src="https://github.com/user-attachments/assets/1310b36f-456a-4cad-8241-556d0d6ee18c">
+
+
+
 </div>
 
 # Descripción del proyecto
