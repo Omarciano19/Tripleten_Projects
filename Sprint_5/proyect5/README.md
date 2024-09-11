@@ -18,3 +18,11 @@ Permite ver una muestra aleatoria del dataframe, graficar histogramas de valores
 Link a aplicación: https://sprint5-project.onrender.com
 
 Link a proyecto render: https://dashboard.render.com/web/srv-cnjo7ugl6cac73cggp8g/deploys/dep-cnjp1gv109ks73epmjh0
+
+### Render
+Dashboard de Render al construir y cargar la aplicación web:
+![image](https://github.com/user-attachments/assets/9e8c193a-3bd3-4d86-b13e-fd8014b2a2cb)
+### WebApp
+Despliegue de la aplicación web.
+![image](https://github.com/user-attachments/assets/2c08c7c1-ea63-455c-8488-161eef81fe25)
+
