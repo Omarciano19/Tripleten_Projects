@@ -4,6 +4,15 @@
 Este es mi primer acercamiento formal al machine learning, usando distintos tipos de modelos y ajustando sus hiperparametros de forma estructurada para encontrar aquel modelo que funcione de la mejor manera.
 El mejor modelo para esta tarea fue un bosque aleatorio de clasificación.
 
+<div align='center'>
+<img width="68" alt="Procesamiento de datos" src="https://github.com/user-attachments/assets/8b350c4b-1041-4153-b794-0f6bdb4af648">
+<img width="68" alt="Fundamentos de ML" src="https://github.com/user-attachments/assets/4a5b35f2-6b91-48b6-9fe6-89ddb5fe852e">
+<img width="64" alt="Modelos de regresión" src="https://github.com/user-attachments/assets/2e9bd4d5-bbc8-48e3-a8f9-0eb355e804e9">
+<img width="64" alt="Modelos de clasificación" src="https://github.com/user-attachments/assets/8bc11e58-85d2-4900-abaf-3fa113664a66">
+
+
+</div>
+
 # Descripción del proyecto
 La compañía móvil Megaline no está satisfecha al ver que muchos de sus clientes utilizan planes heredados. Quieren desarrollar un modelo que pueda analizar el comportamiento de los clientes y recomendar uno de los nuevos planes de Megaline: Smart o Ultra.
 
