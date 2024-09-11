@@ -14,6 +14,14 @@ Tambien se hacen analisís analiticos del funcionamiento de la ofuscación.
   - +se demostró como el escalado de datos no tiene influencia en la regresión lineal.
 - -Se demostró de forma practica y analitica, como una ofuscación de datos a través de una matriz aleatoria $P$, no afecta en ningun sentido practico las predicciónes de un modelo de regresión lineal y que la ofuscación de deshace con el uso de la matriz llave $P^{-1}$
 
+##Skills:
+<div align='center'>
+<img width="68" alt="Fundamentos de ML" src="https://github.com/user-attachments/assets/d27b86d4-3887-4716-b2f5-4fb56d30efe6">
+<img width="64" alt="Modelos de regresión" src="https://github.com/user-attachments/assets/bebbb2e5-447b-44ed-860f-e57371d3339c">
+
+
+</div>
+
 ## Descripción del proyecto
 
 La compañía de seguros Sure Tomorrow quiere resolver varias tareas con la ayuda de machine learning y te pide que evalúes esa posibilidad.
