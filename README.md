@@ -5,32 +5,32 @@ Repositorio de los proyectos finales y algunos ejercicios de cada Sprint del boo
 Este repositorio sera actualizado conforme se hagan mas proyectos cubriendo los siguientes temas:
  ### Skills:
 <div align='center'>
-<img width="70" alt="Python" src="https://github.com/user-attachments/assets/96f1fa30-a0b7-4ba5-928f-48ffd96dcfcc">
+<img width="75" alt="Python" src="https://github.com/user-attachments/assets/96f1fa30-a0b7-4ba5-928f-48ffd96dcfcc">
 
-<img width="70" alt="Procesamiento de datos" src="https://github.com/user-attachments/assets/f8baac0f-7a18-451f-a05a-d2dc8afb0072">
-<img width="70" alt="Analisis estadistico" src="https://github.com/user-attachments/assets/2c4fe6aa-8f45-40c7-9f39-aef514316116">
-<img width="70" alt="Analisis exploratorio" src="https://github.com/user-attachments/assets/15875766-8cfd-46b6-ab5c-9f60c7ff3fdd">
-<img width="70" alt="Explicación de los datos" src="https://github.com/user-attachments/assets/a1a56119-bff3-4ba4-a20f-559b406ba2ef">
-<img width="68" alt="Herramientas de desarrollo de software" src="https://github.com/user-attachments/assets/9915294c-64ca-4bd7-9341-83a706ff81e2">
+<img width="75" alt="Procesamiento de datos" src="https://github.com/user-attachments/assets/f8baac0f-7a18-451f-a05a-d2dc8afb0072">
+<img width="75" alt="Analisis estadistico" src="https://github.com/user-attachments/assets/2c4fe6aa-8f45-40c7-9f39-aef514316116">
+<img width="75" alt="Analisis exploratorio" src="https://github.com/user-attachments/assets/15875766-8cfd-46b6-ab5c-9f60c7ff3fdd">
+<img width="75" alt="Explicación de los datos" src="https://github.com/user-attachments/assets/a1a56119-bff3-4ba4-a20f-559b406ba2ef">
+<img width="75" alt="Herramientas de desarrollo de software" src="https://github.com/user-attachments/assets/9915294c-75ca-4bd7-9341-83a756ff81e2">
 
 
-<img width="70" alt="SQL" src="https://github.com/user-attachments/assets/daea0a0a-6dbc-49ab-93d6-7bbc91c7bbaf">
+<img width="75" alt="SQL" src="https://github.com/user-attachments/assets/daea0a0a-6dbc-49ab-93d6-7bbc91c7bbaf">
 
 </div>
 
 <div align='center'>
-<img width="70" alt="Fundamentos de ML" src="https://github.com/user-attachments/assets/7dfe3454-169d-4b10-b8ae-3c141ddf88ee">
+<img width="75" alt="Fundamentos de ML" src="https://github.com/user-attachments/assets/7dfe3454-169d-4b10-b8ae-3c141ddf88ee">
 
-<img width="70" alt="Modelos de regresión" src="https://github.com/user-attachments/assets/7e8bf508-9b12-4fc4-b066-2cd3affd360e">
-<img width="70" alt="Modelos de clasificación" src="https://github.com/user-attachments/assets/13aaeb69-6e13-4db2-aa03-7b746f6be171">
-
-
+<img width="75" alt="Modelos de regresión" src="https://github.com/user-attachments/assets/7e8bf508-9b12-4fc4-b066-2cd3affd360e">
+<img width="75" alt="Modelos de clasificación" src="https://github.com/user-attachments/assets/13aaeb69-6e13-4db2-aa03-7b746f6be171">
 
 
-<img width="70" alt="ML avanzado" src="https://github.com/user-attachments/assets/2562bc37-0152-4840-8901-be22b7873529">
-<img width="70" alt="Redes Neuronales" src="https://github.com/user-attachments/assets/a981a75c-fb9c-4a6d-a8e6-4fd802a9ab0f">
-<img width="70" alt="Analisis de series temporales" src="https://github.com/user-attachments/assets/1bddf7ee-190a-4f8d-a559-09a22f204520">
-<img width="70" alt="Procesamiento de lenguaje natural" src="https://github.com/user-attachments/assets/0a1cf38a-b83d-4b0d-ada2-188b9d7fa42c">
+
+
+<img width="75" alt="ML avanzado" src="https://github.com/user-attachments/assets/2562bc37-0152-4840-8901-be22b7873529">
+<img width="75" alt="Redes Neuronales" src="https://github.com/user-attachments/assets/a981a75c-fb9c-4a6d-a8e6-4fd802a9ab0f">
+<img width="75" alt="Analisis de series temporales" src="https://github.com/user-attachments/assets/1bddf7ee-190a-4f8d-a559-09a22f204520">
+<img width="75" alt="Procesamiento de lenguaje natural" src="https://github.com/user-attachments/assets/0a1cf38a-b83d-4b0d-ada2-188b9d7fa42c">
 </div>
 
 Para ejecutar cualquier proyecto descarga su notebook (.ipynb)y datos (.csv) en una carpeta llamada "datasets" en la misma dirección del notebook.
