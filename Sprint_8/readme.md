@@ -4,6 +4,8 @@
 Este es mi primer acercamiento formal al machine learning, usando distintos tipos de modelos y ajustando sus hiperparametros de forma estructurada para encontrar aquel modelo que funcione de la mejor manera.
 El mejor modelo para esta tarea fue un bosque aleatorio de clasificación.
 
+## Skills:
+
 <div align='center'>
 <img width="68" alt="Procesamiento de datos" src="https://github.com/user-attachments/assets/8b350c4b-1041-4153-b794-0f6bdb4af648">
 <img width="68" alt="Fundamentos de ML" src="https://github.com/user-attachments/assets/4a5b35f2-6b91-48b6-9fe6-89ddb5fe852e">
