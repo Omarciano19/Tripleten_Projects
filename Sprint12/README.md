@@ -5,6 +5,15 @@
 En este proyecto se realiza un fuerte procesamiento y limpieza de datos, haciendo uso de metodos estadisticos y modelos de regresión lineal; posteriormente se aplica un procesamiento para entrenar multiples modelos de Machine Learning (ML), haciendo incapie en las opciones existentes para aplicar potenciación de gradiente (Gradient Boosting) como ```CatBoost```, ```LightGBM``` y ```XGBoost```, finalmente comparamos los resultados de estos metodos con otras formas tradicionales de modelos de ML.
 
 
+## Skills:
+<div align='center'>
+<img width="64" alt="ML avanzado" src="https://github.com/user-attachments/assets/e84dbec3-5bc5-4691-a6a7-0a87e7eaa287">
+<img width="64" alt="Modelos de regresión" src="https://github.com/user-attachments/assets/9ae7f457-966d-451d-be2d-3cb0976278d1">
+<img width="64" alt="Redes Neuronales" src="https://github.com/user-attachments/assets/59e2d7f4-5e01-48ce-8797-73bded54d0b1">
+
+
+</div>
+
 # Descripción del proyecto
 Rusty Bargain es un servicio de venta de coches de segunda mano que está desarrollando una app para atraer a nuevos clientes. Gracias a esa app, puedes averiguar rápidamente el valor de mercado de tu coche. Tienes acceso al historial, especificaciones técnicas, versiones de equipamiento y precios. Tienes que crear un modelo que determine el valor de mercado.
 
