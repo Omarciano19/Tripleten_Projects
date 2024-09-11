@@ -1,3 +1,5 @@
+# Series Temporales: Predicción de demanda en aplicaciones de taxis.
+
 "Para una compañía de taxis, predecir la cantidad de viajes en la próxima hora para que la compañía pueda congregar más conductores durante las horas pico."
 
 En este proyecto se analiza un dataset compuesto únicamente de la etiqueta temporal y la cantidad de órdenes, se aplica limpieza de datos y se emplean técnicas de análisis como re-muestreo, media móvil, descomposición en tendencia, estacionalidad y residuo, al igual que retrasos para generar características que permitan entrenar múltiples modelos de machine learning.
